@@ -2,7 +2,7 @@
 
 By Grace Yoo
 
-**Programming Languages Used: ** Javascript, CSS, HTML
+**Programming Languages Used:** Javascript, CSS, HTML
 
 # Description
 
@@ -17,5 +17,6 @@ The United States Geological Survey (USGS) is responsible for providing scientif
 
 # Results:
 
+![Earthquake Map](Leaflet-Part-1/Images/solution.png)
 
 
